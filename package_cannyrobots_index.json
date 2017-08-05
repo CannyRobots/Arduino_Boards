@@ -17,10 +17,10 @@
           "help": {
             "online": "https://www.cannyrobots.com/documentation/"
           },
-          "url": "https://github.com/Lauszus/Sanguino/releases/download/1.0.0/Sanguino-1.0.0.zip",
-          "archiveFileName": "Sanguino-1.0.0.zip",
-          "checksum": "SHA-256:1bfe7707894907a2792884fc726e1fe9251842fac75eaf5ef451bba0c18cbb4e",
-          "size": "92824",
+          "url": "https://github.com/CannyRobots/Arduino_Boards/raw/master/stepZero-0.1.0.zip",
+          "archiveFileName": "stepZero-0.1.0.zip",
+          "checksum": "SHA-256:8e744a1709d1f8445247f8263915427c3303673d219b588d56a496164c2f71f1",
+          "size": "50812",
           "boards": [
             {"name": "stepZero"}
           ],
